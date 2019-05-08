@@ -25,5 +25,5 @@
 hs_err_pid*
 
 .idea
-Week1Day3.iml
+*.iml
 .xml
