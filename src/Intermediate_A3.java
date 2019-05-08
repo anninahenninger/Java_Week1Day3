@@ -5,7 +5,7 @@
  *
  * As a test data, use following string from “Alice in Wonderland:
  */
-public class Basic_A3 {
+public class Intermediate_A3 {
     public static void main(String[] args){
         String aliceInWonderland = "     Alice was beginning to get very tired of sitting by her sister on the bank, " +
                 "and of having nothing to do: once or twice she had peeped into the book her sister was reading, " +
