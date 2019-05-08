@@ -18,12 +18,12 @@ public class Basic_A3 {
         System.out.println(aliceInWonderland.trim());
         System.out.println(aliceInWonderland.replace("was","mäh"));
         System.out.println(aliceInWonderland.replaceAll("was", "mäh"));
-        String[] occurences = (aliceInWonderland.split("a", 5));
-        System.out.println(occurences[0]);
-        System.out.println(occurences[1]);
-        System.out.println(occurences[2]);
-        System.out.println(occurences[3]);
-        System.out.println(occurences[4]);
+        String[] occurrences = (aliceInWonderland.split("a", 5));
+        System.out.println(occurrences[0]);
+        System.out.println(occurrences[1]);
+        System.out.println(occurrences[2]);
+        System.out.println(occurrences[3]);
+        System.out.println(occurrences[4]);
 
 
     }
